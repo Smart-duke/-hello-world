@@ -1,2 +1,2 @@
-# -hello-world
+smart-duke.github.io
 First Repository
